@@ -48,11 +48,13 @@ I am currently open to select collaborations and consulting on generative modeli
 </div> -->
 
 
-I am a PhD candidate at Jagiellonian University, advised by **Prof. Jacek Tabor**, and a recent Research Intern at **Mila - Quebec AI Institute** (2023-2024), where I worked under the supervision of **Prof. Yoshua Bengio**.
+I am a PhD candidate at **Jagiellonian University**, advised by **Prof. Jacek Tabor**, and a recent Research Intern at **Mila - Quebec AI Institute** (2023-2024), where I worked under the supervision of **Prof. Yoshua Bengio**.
 
 I have recently submitted my PhD thesis, *"Probabilistic deep learning: from efficient sampling to principled generation,"* and I am currently awaiting my defense.
 
-My research focuses on **Probabilistic Deep Learning**, with a specific emphasis on **Diffusion Models** and advanced sampling methods like **GFlowNets**. My core mission is to leverage these tools to build AI models that possess stronger **Probabilistic Reasoning** capabilities while remaining **Safe** and aligned. I am particularly interested in how structured generation can bridge the gap between rigorous Bayesian inference and modern deep learning. I am also trying to advance the (amortized) variational inference methods to allow better probabilistic inference in complex, large-scale models like LLMs and Diffusion Models.
+My research focuses on **Probabilistic Deep Learning**, with a specific emphasis on **Diffusion Models** and advanced sampling methods like **GFlowNets**. My core mission is to leverage these tools to build AI models that possess stronger **Probabilistic Reasoning** capabilities while remaining **Safe** and aligned. I am particularly interested in how structured generation can bridge the gap between rigorous **Bayesian inference** and modern deep learning. 
+
+I am also trying to advance the (amortised) variational inference methods to allow better probabilistic inference (and Bayesian posterior estimation) in complex, large-scale models like **LLMs** and **Diffusion Models**.
 
 **Current Research Focus:**
 
