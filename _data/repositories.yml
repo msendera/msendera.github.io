@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - msendera
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - GFNOrg/gfn-diffusion/
+  - GFNOrg/diffusion-finetuning
+  - GFNOrg/gfn-diffusion/tree/stagger
+  - gmum/semu
+  - gmum/bnn-functional-priors
+  - gmum/few-shot-hypernets-public
+  - gmum/non-gaussian-gaussian-processes
